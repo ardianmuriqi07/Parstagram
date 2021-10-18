@@ -23,5 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />![](https://i.imgur.com/l98k2xU.gif)
+User signing up
+![](https://i.imgur.com/nrcaJmY.gif)
 
+
+User login in and post phot with caption to server
+
+![](https://i.imgur.com/zcx35dG.gif)
